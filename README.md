@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I am Marc, a Bioinformatics student at the University of Applied sciences Leiden.
+I am Marc, a Bioinformatics Master's student at University Leiden.
 * I am interested in the languages Python, Julia and R.
-* You can interest me greatly by talking about optimizing simple algorithms and benchmarking them
-* I am a big fan of Morse Code and TETRIS.
+* With a particular bias for creating new problems without using packages
